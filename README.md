@@ -8,4 +8,4 @@ Surprisingly, a single-qubit QNN is capable of selecting optimal parameters to c
 
 ![Results](results.png)
 
-The results reveal that adding qubits can enhance accuracy, even when the training remains consistent across all cases.
+The results reveal that adding qubits can enhance accuracy, even when from the same training parameters.
